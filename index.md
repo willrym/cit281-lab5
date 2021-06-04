@@ -6,3 +6,5 @@
 5. Use Postman to test server GET routes
 6. Add POST handling to server application and respond with JSON
 7. Use Postman and POST request
+
+![Sal](https://static.wikia.nocookie.net/impracticaljokers/images/d/d2/Sal.png/revision/latest/scale-to-width-down/361?cb=20190604013345)
